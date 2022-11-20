@@ -30,7 +30,7 @@
             {
                 ConsoleKeyInfo key = Console.ReadKey();
 
-                ActionKey(key, ref isWorking);
+                GetKey(key, ref isWorking);
 
                 if(isWorking == true)
                 {
@@ -57,7 +57,7 @@
         }
     }
 
-    static void ActionKey(ConsoleKeyInfo key, ref bool isWorking)
+    static void GetKey(ConsoleKeyInfo key, ref bool isWorking)
     {
         switch (key.Key)
         {
