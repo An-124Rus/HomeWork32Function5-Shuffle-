@@ -51,9 +51,9 @@
         {
             int j = random.Next(array.Length);
 
-            int temporaryArray = array[j];
+            int temporaryValue = array[j];
             array[j] = array[i];
-            array[i] = temporaryArray;
+            array[i] = temporaryValue;
         }
     }
 
