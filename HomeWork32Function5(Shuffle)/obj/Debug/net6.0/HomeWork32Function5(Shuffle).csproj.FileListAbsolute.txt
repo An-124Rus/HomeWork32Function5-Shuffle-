@@ -1,0 +1,15 @@
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\bin\Debug\net6.0\HomeWork32Function5(Shuffle).exe
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\bin\Debug\net6.0\HomeWork32Function5(Shuffle).deps.json
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\bin\Debug\net6.0\HomeWork32Function5(Shuffle).runtimeconfig.json
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\bin\Debug\net6.0\HomeWork32Function5(Shuffle).dll
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\bin\Debug\net6.0\HomeWork32Function5(Shuffle).pdb
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\HomeWork32Function5(Shuffle).csproj.AssemblyReference.cache
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\HomeWork32Function5(Shuffle).GeneratedMSBuildEditorConfig.editorconfig
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\HomeWork32Function5(Shuffle).AssemblyInfoInputs.cache
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\HomeWork32Function5(Shuffle).AssemblyInfo.cs
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\HomeWork32Function5(Shuffle).csproj.CoreCompileInputs.cache
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\HomeWork32Function5(Shuffle).dll
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\refint\HomeWork32Function5(Shuffle).dll
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\HomeWork32Function5(Shuffle).pdb
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\HomeWork32Function5(Shuffle).genruntimeconfig.cache
+E:\CSlight\HomeWork32Function5(Shuffle)\HomeWork32Function5(Shuffle)\obj\Debug\net6.0\ref\HomeWork32Function5(Shuffle).dll
